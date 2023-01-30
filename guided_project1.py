@@ -1,12 +1,3 @@
-my_name = "Hatice"
-my_Surnmae = "Kocabaş"
-my_age = 25
-ID_number = 10101010
-where_i_live = "Kayseri"
-health_insurance = True
-
-print(
-    f"My name is {my_name} {my_Surnmae} I am {str(my_age)} years old , I live in {where_i_live}")
 
 
 item_list = ["Laptop", "Headset", "Second Monitor",
