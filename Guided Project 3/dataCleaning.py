@@ -93,3 +93,8 @@ print(dictionary2)
 
 sorted_dictionary = sorted(dictionary2)[0:3]
 print(sorted_dictionary)
+
+print(names)
+print(call_numbers)
+print(avarage_deal_sizes)
+print(revenues)
